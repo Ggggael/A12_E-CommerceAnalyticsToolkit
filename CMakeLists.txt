@@ -12,7 +12,7 @@ add_executable(dsac
     src/box_optimizer.cpp
     src/cart_analysis.cpp
     src/customer_loyalty.cpp
-    src/api_monior.cpp
+    src/api_monitor.cpp
 )
 
 add_executable(my_test 
@@ -20,7 +20,7 @@ add_executable(my_test
     src/box_optimizer.cpp
     src/cart_analysis.cpp
     src/customer_loyalty.cpp
-    src/api_monior.cpp
+    src/api_monitor.cpp
 )
 
 enable_testing()

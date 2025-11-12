@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/my_test.dir/src/api_monior.cpp.obj"
-  "CMakeFiles/my_test.dir/src/api_monior.cpp.obj.d"
+  "CMakeFiles/my_test.dir/src/api_monitor.cpp.obj"
+  "CMakeFiles/my_test.dir/src/api_monitor.cpp.obj.d"
   "CMakeFiles/my_test.dir/src/box_optimizer.cpp.obj"
   "CMakeFiles/my_test.dir/src/box_optimizer.cpp.obj.d"
   "CMakeFiles/my_test.dir/src/cart_analysis.cpp.obj"

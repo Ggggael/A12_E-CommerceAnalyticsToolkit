@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/gaelg/Desktop/Study/FALL_2025/DATA_STRUCT/Homework/A12_E-CommerceAnalyticsToolkit/src/api_monior.cpp" "CMakeFiles/dsac.dir/src/api_monior.cpp.obj" "gcc" "CMakeFiles/dsac.dir/src/api_monior.cpp.obj.d"
+  "C:/Users/gaelg/Desktop/Study/FALL_2025/DATA_STRUCT/Homework/A12_E-CommerceAnalyticsToolkit/src/api_monitor.cpp" "CMakeFiles/dsac.dir/src/api_monitor.cpp.obj" "gcc" "CMakeFiles/dsac.dir/src/api_monitor.cpp.obj.d"
   "C:/Users/gaelg/Desktop/Study/FALL_2025/DATA_STRUCT/Homework/A12_E-CommerceAnalyticsToolkit/src/box_optimizer.cpp" "CMakeFiles/dsac.dir/src/box_optimizer.cpp.obj" "gcc" "CMakeFiles/dsac.dir/src/box_optimizer.cpp.obj.d"
   "C:/Users/gaelg/Desktop/Study/FALL_2025/DATA_STRUCT/Homework/A12_E-CommerceAnalyticsToolkit/src/cart_analysis.cpp" "CMakeFiles/dsac.dir/src/cart_analysis.cpp.obj" "gcc" "CMakeFiles/dsac.dir/src/cart_analysis.cpp.obj.d"
   "C:/Users/gaelg/Desktop/Study/FALL_2025/DATA_STRUCT/Homework/A12_E-CommerceAnalyticsToolkit/src/customer_loyalty.cpp" "CMakeFiles/dsac.dir/src/customer_loyalty.cpp.obj" "gcc" "CMakeFiles/dsac.dir/src/customer_loyalty.cpp.obj.d"

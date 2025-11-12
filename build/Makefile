@@ -151,32 +151,32 @@ my_test/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\my_test.dir\build.make CMakeFiles/my_test.dir/build
 .PHONY : my_test/fast
 
-src/api_monior.obj: src/api_monior.cpp.obj
-.PHONY : src/api_monior.obj
+src/api_monitor.obj: src/api_monitor.cpp.obj
+.PHONY : src/api_monitor.obj
 
 # target to build an object file
-src/api_monior.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsac.dir\build.make CMakeFiles/dsac.dir/src/api_monior.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\my_test.dir\build.make CMakeFiles/my_test.dir/src/api_monior.cpp.obj
-.PHONY : src/api_monior.cpp.obj
+src/api_monitor.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsac.dir\build.make CMakeFiles/dsac.dir/src/api_monitor.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\my_test.dir\build.make CMakeFiles/my_test.dir/src/api_monitor.cpp.obj
+.PHONY : src/api_monitor.cpp.obj
 
-src/api_monior.i: src/api_monior.cpp.i
-.PHONY : src/api_monior.i
+src/api_monitor.i: src/api_monitor.cpp.i
+.PHONY : src/api_monitor.i
 
 # target to preprocess a source file
-src/api_monior.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsac.dir\build.make CMakeFiles/dsac.dir/src/api_monior.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\my_test.dir\build.make CMakeFiles/my_test.dir/src/api_monior.cpp.i
-.PHONY : src/api_monior.cpp.i
+src/api_monitor.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsac.dir\build.make CMakeFiles/dsac.dir/src/api_monitor.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\my_test.dir\build.make CMakeFiles/my_test.dir/src/api_monitor.cpp.i
+.PHONY : src/api_monitor.cpp.i
 
-src/api_monior.s: src/api_monior.cpp.s
-.PHONY : src/api_monior.s
+src/api_monitor.s: src/api_monitor.cpp.s
+.PHONY : src/api_monitor.s
 
 # target to generate assembly for a file
-src/api_monior.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsac.dir\build.make CMakeFiles/dsac.dir/src/api_monior.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\my_test.dir\build.make CMakeFiles/my_test.dir/src/api_monior.cpp.s
-.PHONY : src/api_monior.cpp.s
+src/api_monitor.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\dsac.dir\build.make CMakeFiles/dsac.dir/src/api_monitor.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\my_test.dir\build.make CMakeFiles/my_test.dir/src/api_monitor.cpp.s
+.PHONY : src/api_monitor.cpp.s
 
 src/box_optimizer.obj: src/box_optimizer.cpp.obj
 .PHONY : src/box_optimizer.obj
@@ -318,9 +318,9 @@ help:
 	@echo ... test
 	@echo ... dsac
 	@echo ... my_test
-	@echo ... src/api_monior.obj
-	@echo ... src/api_monior.i
-	@echo ... src/api_monior.s
+	@echo ... src/api_monitor.obj
+	@echo ... src/api_monitor.i
+	@echo ... src/api_monitor.s
 	@echo ... src/box_optimizer.obj
 	@echo ... src/box_optimizer.i
 	@echo ... src/box_optimizer.s

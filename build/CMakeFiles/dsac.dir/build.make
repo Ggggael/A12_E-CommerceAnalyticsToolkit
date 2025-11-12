@@ -128,20 +128,20 @@ CMakeFiles/dsac.dir/src/customer_loyalty.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dsac.dir/src/customer_loyalty.cpp.s"
 	C:\msys64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\gaelg\Desktop\Study\FALL_2025\DATA_STRUCT\Homework\A12_E-CommerceAnalyticsToolkit\src\customer_loyalty.cpp -o CMakeFiles\dsac.dir\src\customer_loyalty.cpp.s
 
-CMakeFiles/dsac.dir/src/api_monior.cpp.obj: CMakeFiles/dsac.dir/flags.make
-CMakeFiles/dsac.dir/src/api_monior.cpp.obj: CMakeFiles/dsac.dir/includes_CXX.rsp
-CMakeFiles/dsac.dir/src/api_monior.cpp.obj: C:/Users/gaelg/Desktop/Study/FALL_2025/DATA_STRUCT/Homework/A12_E-CommerceAnalyticsToolkit/src/api_monior.cpp
-CMakeFiles/dsac.dir/src/api_monior.cpp.obj: CMakeFiles/dsac.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\gaelg\Desktop\Study\FALL_2025\DATA_STRUCT\Homework\A12_E-CommerceAnalyticsToolkit\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/dsac.dir/src/api_monior.cpp.obj"
-	C:\msys64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/dsac.dir/src/api_monior.cpp.obj -MF CMakeFiles\dsac.dir\src\api_monior.cpp.obj.d -o CMakeFiles\dsac.dir\src\api_monior.cpp.obj -c C:\Users\gaelg\Desktop\Study\FALL_2025\DATA_STRUCT\Homework\A12_E-CommerceAnalyticsToolkit\src\api_monior.cpp
+CMakeFiles/dsac.dir/src/api_monitor.cpp.obj: CMakeFiles/dsac.dir/flags.make
+CMakeFiles/dsac.dir/src/api_monitor.cpp.obj: CMakeFiles/dsac.dir/includes_CXX.rsp
+CMakeFiles/dsac.dir/src/api_monitor.cpp.obj: C:/Users/gaelg/Desktop/Study/FALL_2025/DATA_STRUCT/Homework/A12_E-CommerceAnalyticsToolkit/src/api_monitor.cpp
+CMakeFiles/dsac.dir/src/api_monitor.cpp.obj: CMakeFiles/dsac.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\gaelg\Desktop\Study\FALL_2025\DATA_STRUCT\Homework\A12_E-CommerceAnalyticsToolkit\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/dsac.dir/src/api_monitor.cpp.obj"
+	C:\msys64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/dsac.dir/src/api_monitor.cpp.obj -MF CMakeFiles\dsac.dir\src\api_monitor.cpp.obj.d -o CMakeFiles\dsac.dir\src\api_monitor.cpp.obj -c C:\Users\gaelg\Desktop\Study\FALL_2025\DATA_STRUCT\Homework\A12_E-CommerceAnalyticsToolkit\src\api_monitor.cpp
 
-CMakeFiles/dsac.dir/src/api_monior.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dsac.dir/src/api_monior.cpp.i"
-	C:\msys64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\gaelg\Desktop\Study\FALL_2025\DATA_STRUCT\Homework\A12_E-CommerceAnalyticsToolkit\src\api_monior.cpp > CMakeFiles\dsac.dir\src\api_monior.cpp.i
+CMakeFiles/dsac.dir/src/api_monitor.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/dsac.dir/src/api_monitor.cpp.i"
+	C:\msys64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\gaelg\Desktop\Study\FALL_2025\DATA_STRUCT\Homework\A12_E-CommerceAnalyticsToolkit\src\api_monitor.cpp > CMakeFiles\dsac.dir\src\api_monitor.cpp.i
 
-CMakeFiles/dsac.dir/src/api_monior.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dsac.dir/src/api_monior.cpp.s"
-	C:\msys64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\gaelg\Desktop\Study\FALL_2025\DATA_STRUCT\Homework\A12_E-CommerceAnalyticsToolkit\src\api_monior.cpp -o CMakeFiles\dsac.dir\src\api_monior.cpp.s
+CMakeFiles/dsac.dir/src/api_monitor.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/dsac.dir/src/api_monitor.cpp.s"
+	C:\msys64\mingw64\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\gaelg\Desktop\Study\FALL_2025\DATA_STRUCT\Homework\A12_E-CommerceAnalyticsToolkit\src\api_monitor.cpp -o CMakeFiles\dsac.dir\src\api_monitor.cpp.s
 
 # Object files for target dsac
 dsac_OBJECTS = \
@@ -149,7 +149,7 @@ dsac_OBJECTS = \
 "CMakeFiles/dsac.dir/src/box_optimizer.cpp.obj" \
 "CMakeFiles/dsac.dir/src/cart_analysis.cpp.obj" \
 "CMakeFiles/dsac.dir/src/customer_loyalty.cpp.obj" \
-"CMakeFiles/dsac.dir/src/api_monior.cpp.obj"
+"CMakeFiles/dsac.dir/src/api_monitor.cpp.obj"
 
 # External object files for target dsac
 dsac_EXTERNAL_OBJECTS =
@@ -158,7 +158,7 @@ dsac.exe: CMakeFiles/dsac.dir/src/main.cpp.obj
 dsac.exe: CMakeFiles/dsac.dir/src/box_optimizer.cpp.obj
 dsac.exe: CMakeFiles/dsac.dir/src/cart_analysis.cpp.obj
 dsac.exe: CMakeFiles/dsac.dir/src/customer_loyalty.cpp.obj
-dsac.exe: CMakeFiles/dsac.dir/src/api_monior.cpp.obj
+dsac.exe: CMakeFiles/dsac.dir/src/api_monitor.cpp.obj
 dsac.exe: CMakeFiles/dsac.dir/build.make
 dsac.exe: CMakeFiles/dsac.dir/linkLibs.rsp
 dsac.exe: CMakeFiles/dsac.dir/objects1.rsp
