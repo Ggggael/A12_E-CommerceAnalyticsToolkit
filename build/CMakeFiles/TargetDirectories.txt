@@ -1,0 +1,5 @@
+C:/Users/gaelg/Desktop/Study/FALL_2025/DATA_STRUCT/Homework/A12_E-CommerceAnalyticsToolkit/build/CMakeFiles/dsac.dir
+C:/Users/gaelg/Desktop/Study/FALL_2025/DATA_STRUCT/Homework/A12_E-CommerceAnalyticsToolkit/build/CMakeFiles/my_test.dir
+C:/Users/gaelg/Desktop/Study/FALL_2025/DATA_STRUCT/Homework/A12_E-CommerceAnalyticsToolkit/build/CMakeFiles/test.dir
+C:/Users/gaelg/Desktop/Study/FALL_2025/DATA_STRUCT/Homework/A12_E-CommerceAnalyticsToolkit/build/CMakeFiles/edit_cache.dir
+C:/Users/gaelg/Desktop/Study/FALL_2025/DATA_STRUCT/Homework/A12_E-CommerceAnalyticsToolkit/build/CMakeFiles/rebuild_cache.dir
